@@ -1,7 +1,7 @@
 ## Training a Model
 
 1. Go to  https://colab.research.google.com/
-2. Click on the _Github_.
+2. Click on the _Github_ tab.
 3. Paste in this link: https://github.com/joshmurr/DI_TrainYourOwnGAN/blob/master/DI_TrainYourOwnGAN.ipynb
 4. Click on the magnifiying glass.
 
